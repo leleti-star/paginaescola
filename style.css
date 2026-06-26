@@ -78,7 +78,9 @@ color:#ffffff;
 
 
 .estudantes_todos{
-display:flex;
+display:grid;
+grid-template-columns: repeat(3, 1fr);
+gap: 30px;
 justify-content:center;
 flex-wrap:wrap;
 gap:30px;
@@ -89,9 +91,8 @@ background:rgb(8, 12, 46);
 padding:20px;
 border-radius:20px;
 text-align:center;
-width:220px;
-box-shadow:0 5px 15px rgba(0,0,0,.2);
-transition:.3s;
+width:280px;
+box-shadow:0 5px 15px rgb(8, 12, 46);
 }
 
 .estudante-div:hover{
