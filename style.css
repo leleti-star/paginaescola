@@ -92,9 +92,6 @@ width: 250px;
 box-sizing: border-box;
 }
 
-.estudante-div:hover{
-transform:translateY(-8px);
-}
 
 .estudante-imagem{
 width: 120px;
@@ -138,17 +135,4 @@ text-decoration:none;
 
 .link:hover{
 color:#eaff2a;
-}
-
-.estudantes_todos {
-display: flex !important;
-flex-wrap: wrap !important;
-width: 100%;
-gap: 30px;
-}
-
-.estudante-div {
-width: calc(25%
-30px) !important;
-box-sizing: border-box;
 }
