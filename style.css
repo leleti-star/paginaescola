@@ -78,11 +78,10 @@ color:#ffffff;
 
 
 .estudantes_todos{
-display:grid;
-grid-template-columns: repeat(3, 1fr);
+display:flex;
+flex-wrap: wrap;
+justify-content: center;
 gap: 30px;
-justify-items: center;
-padding: 20px;
 }
 
 .estudante-div{
@@ -90,8 +89,8 @@ background:rgb(8, 12, 46);
 padding:20px;
 border-radius:20px;
 text-align:center;
-width:280px;
-box-shadow:0 5px 15px rgb(8, 12, 46);
+width: 25px;
+text-align: center;
 }
 
 .estudante-div:hover{
