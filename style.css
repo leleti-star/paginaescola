@@ -66,14 +66,14 @@ width:70%;
 margin:auto;
 font-size:20px;
 line-height:1.8;
-color:#f0f330;
+color:#eaff2a;
 }
 
 .estudante_titulo{
 padding:40px;
 text-align:center;
 font-size:35px;
-color:#ffffff;
+color:#eaff2a;
 }
 
 
@@ -106,7 +106,7 @@ border: radius 0;
 
 .estudante-nome{
 margin-top:15px;
-color:#443199;
+color:#eaff2a;
 }
 
 .estudante-icone{
@@ -115,14 +115,14 @@ margin:5px;
 }
 
 .escola{
-background:#443199;
+background:#221361;
 color:white;
 padding:30px;
 text-align:center;
 }
 
 .descricao-amigo{
-color:#443199;
+color:#eaff2a;
 font-size:15px;
 margin:10px 0;
 text-align:center;
@@ -133,10 +133,10 @@ height:80px;
 }
 
 .link{
-color:white;
+color:yellow;
 text-decoration:none;
 }
 
 .link:hover{
-color:#C13383;
+color:#eaff2a;
 }
