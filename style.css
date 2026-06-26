@@ -9,11 +9,11 @@ font-family: "Poppins", sans-serif;
 header{
 background-color: #424e61;
 color: white;
-width: 100%;
+width: 50%;
 padding: 20px;
 }
 .cabecalho-itens{
-max-width: 1980px;
+max-width: 500px;
 margin: 0 auto;
 display: flex;
 align-items: center;
