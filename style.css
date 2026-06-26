@@ -94,8 +94,8 @@ box-sizing: border-box;
 
 
 .estudante-imagem{
-width: 120px;
-height:120px;
+width: 200px;
+height:250px;
 object-fit:cover;
 border: none
 }
