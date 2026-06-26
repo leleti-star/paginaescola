@@ -82,14 +82,13 @@ display:flex;
 flex-wrap: wrap;
 justify-content: center;
 gap: 30px;
+width: 100%;
 }
 
 .estudante-div{
 background:rgb(8, 12, 46);
 padding:20px;
-border-radius:20px;
-text-align:center;
-width: 20px;
+width: 250px;
 box-sizing: border-box;
 }
 
@@ -98,8 +97,8 @@ transform:translateY(-8px);
 }
 
 .estudante-imagem{
-width:160px;
-height:160px;
+width: 120px;
+height:120px;
 object-fit:cover;
 border: none
 }
