@@ -36,7 +36,7 @@ padding:50px;
 text-align:center;
 width:50%;
 font-size:36px;
-color:#cc8419;
+color:#f0f330;
 }
 
 .sociais{
@@ -85,7 +85,7 @@ gap:30px;
 }
 
 .estudante-div{
-background:blue;
+background:rgb(13, 19, 73);
 padding:20px;
 border-radius:20px;
 text-align:center;
