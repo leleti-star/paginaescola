@@ -6,7 +6,7 @@ box-sizing:border-box;
 
 body{
 font-family:"Poppins",sans-serif;
-background: #080953;;
+background: #06072e;;
 }
 
 header{
@@ -36,7 +36,7 @@ padding:50px;
 text-align:center;
 width:50%;
 font-size:36px;
-color:#C13383;
+color:#cc8419;
 }
 
 .sociais{
@@ -56,7 +56,7 @@ display:none;
 }
 
 .sobre{
-background:white;
+background:rgb(13, 19, 73);
 padding:50px;
 text-align:center;
 }
@@ -66,14 +66,14 @@ width:70%;
 margin:auto;
 font-size:20px;
 line-height:1.8;
-color:#443199;
+color:#f0f330;
 }
 
 .estudante_titulo{
 padding:40px;
 text-align:center;
 font-size:35px;
-color:#C13383;
+color:#ffffff;
 }
 
 
@@ -85,7 +85,7 @@ gap:30px;
 }
 
 .estudante-div{
-background:white;
+background:blue;
 padding:20px;
 border-radius:20px;
 text-align:center;
