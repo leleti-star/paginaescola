@@ -6,7 +6,7 @@ box-sizing:border-box;
 
 body{
 font-family:"Poppins",sans-serif;
-background:#f8f5ff;
+background: #797979;;
 }
 
 header{
@@ -36,7 +36,7 @@ padding:50px;
 text-align:center;
 width:50%;
 font-size:36px;
-color:white;
+color:#C13383;
 }
 
 .sociais{
@@ -47,7 +47,7 @@ padding-right:30px;
 }
 
 .sociais img{
-width:35px;
+width:50px;
 margin:5px;
 }
 
