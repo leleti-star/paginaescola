@@ -89,7 +89,7 @@ background:rgb(8, 12, 46);
 padding:20px;
 border-radius:20px;
 text-align:center;
-width: 25px;
+width: 220px;
 }
 
 .estudante-div:hover{
@@ -97,8 +97,8 @@ transform:translateY(-8px);
 }
 
 .estudante-imagem{
-width:180px;
-height:180px;
+width:200px;
+height:200px;
 object-fit:cover;
 border: none
 border: radius 0;
