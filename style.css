@@ -148,6 +148,7 @@ color:#eaff2a;
 /* Deixa o título bonito */
 .video-centralizado h2 {
     margin-bottom: 20px;
+    color: #eaff2a;
 }
 
 /* Mantém a proporção do vídeo (16:9) no celular e PC */
@@ -167,3 +168,4 @@ color:#eaff2a;
     height: 100%;
     border: 0;
 }
+
