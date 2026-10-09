@@ -201,7 +201,7 @@
   document.body.appendChild(container);
 
   // --- LÓGICA DO JOGO ---
-  const emojis = ["🌸", "🌼", "🌷", "", "🎀", "🐱"];
+  const emojis = ["🌸", "🌼", "🌷", "🇧🇷", "🎀", "🐱"];
   const grid = container.querySelector("#hk-grid");
   const movesEl = container.querySelector("#hk-moves");
   const pairsEl = container.querySelector("#hk-pairs");
